@@ -440,4 +440,5 @@ The following questions are an opportunity to reflect on key topics in this less
 
 This section contains helpful links to related content. It isn't required, so consider it supplemental.
 
-- It looks like this lesson doesn't have any additional resources yet. Help us expand this section by contributing to our curriculum.
+- This video on [4 Key Concepts of Webpack](https://www.youtube.com/watch?v=CAAH_ZH5niM&t=395s&ab_channel=Netlify) by Sean Larkin (one of the maintainers of Webpack) summarizes the key concepts of Webpack.
+  He explains the reasons behind and the methods for using Entry, Output, Loaders, and Plugins.
